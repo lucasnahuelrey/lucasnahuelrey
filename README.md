@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasnahuelrey
-- 👀 I’m interested in coding apps and web pages
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in coding web pages
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me reylucas2011@gmail.com
 
